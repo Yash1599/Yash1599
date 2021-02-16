@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash1599&label=Views&color=blue&style=plastic" alt="Yash1599" /> </p>
 
 <a href="https://www.linkedin.com/in/yash-singhania-358aa5160/">
-  <img align="left" alt="Dishant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Yash's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Yash1599">
   <img align="left" alt="Yash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -17,16 +17,16 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack Development 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Mobile Dev
 - 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about Python,C++,Jupyter
-- 📫 How to reach me:yashsinghania15@gmail.com/(https://angel.co/u/yash-singhania-2)
+- 💬 Ask me about Python, DSA , JAVA 
+- 📫 How to reach me: yashsinghania15@gmail.com/(https://angel.co/u/yash-singhania-2)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
 -->
 
 
-[![Linkedin: Yash Singhania](https://img.shields.io/badge/-Yash Singhania-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-singhania-358aa5160/)](https://www.linkedin.com/in/yash-singhania-358aa5160/)
+[![Linkedin: YashSinghania](https://img.shields.io/badge/-YashSinghania-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-singhania-358aa5160/)](https://www.linkedin.com/in/yash-singhania-358aa5160/)
 [![GitHub:Yash Singhania](https://img.shields.io/github/followers/Yash1599?label=follow&style=social)](https://github.com/Yash1599)
 
 
@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Yash1599">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1599&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/Yash1599">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&show_icons=true&theme=dark&line_height=27" alt="Yash's GitHub Stats"/>
 </a>
 
 <div align="center">
