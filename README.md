@@ -1,5 +1,5 @@
 
-###  I 'm Vengeance
+###  I 'm Software Architect
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash1599&label=Views&color=blue&style=plastic" alt="Yash1599" /> </p>
 
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Yash1599">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1599&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Yash1599">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash1599&show_icons=true&theme=dark&line_height=27" alt="Yash's github stats"/>
 </a>
 
 <div align="center">
