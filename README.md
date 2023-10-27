@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Mobile Dev
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Python, DSA , JAVA 
-- 📫 How to reach me: yashsinghania15@gmail.com/(https://angel.co/u/yash-singhania-2)
+- 📫 How to reach me: ysinghania@cs.stonybrook.edu/(https://angel.co/u/yash-singhania-2)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
 -->
